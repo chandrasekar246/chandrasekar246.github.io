@@ -1,0 +1,42 @@
+html {
+  background-color: #191E51;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #47D3DA;
+  padding: 0 20px 20px 20px;
+  border: 5px solid orange;
+}
+
+h1 {
+  font-size: 42px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #191E51;
+  text-shadow: 2px 2px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 200px;
+}
+
+p, li {
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.75;
+  letter-spacing: .75px;
+}
+
+a:hover {
+	background-color: #24A4DF;
+}
+
+
